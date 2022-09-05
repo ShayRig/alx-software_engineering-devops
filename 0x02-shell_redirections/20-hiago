@@ -1,2 +1,2 @@
 #!/bin/bash
-tv -d[cC]
+tr -d"cC"
